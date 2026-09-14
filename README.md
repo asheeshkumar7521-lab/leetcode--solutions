@@ -41,6 +41,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -64,6 +65,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## String
 |  |
 | ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0443-string-compression) |
 ## Depth-First Search
 |  |
@@ -81,4 +83,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0547-number-of-provinces) |
+## Sliding Window
+|  |
+| ------- |
+| [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 <!---LeetCode Topics End-->
