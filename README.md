@@ -48,6 +48,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0007-reverse-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
@@ -69,6 +70,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## String
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0443-string-compression) |
 | [2490-circular-sentence](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2490-circular-sentence) |
@@ -92,4 +94,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
