@@ -51,12 +51,14 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0007-reverse-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
@@ -117,4 +119,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
