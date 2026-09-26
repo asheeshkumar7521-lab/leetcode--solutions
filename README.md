@@ -52,6 +52,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0007-reverse-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0007-reverse-integer) |
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -123,4 +124,12 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
