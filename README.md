@@ -52,6 +52,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0007-reverse-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
@@ -88,6 +89,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
+| [0043-multiply-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -116,6 +118,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 ## Divide and Conquer
