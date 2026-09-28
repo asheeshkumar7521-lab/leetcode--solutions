@@ -57,6 +57,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
 | [0223-rectangle-area](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0223-rectangle-area) |
+| [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0263-ugly-number) |
@@ -92,6 +93,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0125-valid-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0443-string-compression) |
@@ -155,6 +157,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Recursion
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0509-fibonacci-number) |
@@ -162,4 +165,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0223-rectangle-area](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0223-rectangle-area) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
