@@ -56,6 +56,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
+| [0223-rectangle-area](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0223-rectangle-area) |
 | [0231-power-of-two](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0263-ugly-number) |
@@ -157,4 +158,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0231-power-of-two](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0509-fibonacci-number) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
