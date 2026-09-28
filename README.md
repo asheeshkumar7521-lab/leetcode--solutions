@@ -55,6 +55,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
