@@ -43,6 +43,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -50,6 +51,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0007-reverse-integer) |
+| [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
@@ -85,6 +87,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
 | [0125-valid-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
