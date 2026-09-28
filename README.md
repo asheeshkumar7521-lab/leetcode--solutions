@@ -63,6 +63,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0263-ugly-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0326-power-of-three) |
+| [0372-super-pow](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0372-super-pow) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -128,6 +129,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
+| [0372-super-pow](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0372-super-pow) |
 ## Counting
 |  |
 | ------- |
@@ -169,4 +171,12 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
