@@ -38,6 +38,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0039-combination-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -94,6 +95,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0043-multiply-strings) |
+| [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
@@ -103,6 +105,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
 | [0547-number-of-provinces](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -184,4 +187,9 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0039-combination-sum) |
+| [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
