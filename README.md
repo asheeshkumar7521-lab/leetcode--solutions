@@ -41,6 +41,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
+| [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -110,6 +111,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0547-number-of-provinces) |
 ## Union-Find
 |  |
@@ -150,6 +152,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
+| [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
@@ -197,4 +200,12 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0021-merge-two-sorted-lists) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
