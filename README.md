@@ -163,6 +163,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0326-power-of-three) |
@@ -192,4 +193,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
