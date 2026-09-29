@@ -36,6 +36,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
@@ -179,4 +180,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0372-super-pow) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
