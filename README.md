@@ -103,6 +103,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
+| [0020-valid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0125-valid-palindrome) |
@@ -190,6 +191,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 ## Euler's Totient Function
 |  |
@@ -220,4 +222,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
