@@ -72,6 +72,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0509-fibonacci-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2235-add-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2235-add-two-integers) |
+| [3959-check-good-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3959-check-good-integer) |
 ## Binary Search
 |  |
 | ------- |
@@ -134,6 +135,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0043-multiply-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0258-add-digits) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
+| [3959-check-good-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3959-check-good-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
