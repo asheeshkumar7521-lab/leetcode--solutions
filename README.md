@@ -70,6 +70,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2235-add-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2235-add-two-integers) |
 ## Binary Search
 |  |
 | ------- |
