@@ -116,6 +116,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0541-reverse-string-ii) |
+| [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0680-valid-palindrome-ii) |
 | [2490-circular-sentence](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2490-circular-sentence) |
 | [4030-check-ascii-palindromic](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/4030-check-ascii-palindromic) |
@@ -171,6 +172,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0509-fibonacci-number) |
+| [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 ## Memoization
 |  |
 | ------- |
@@ -197,6 +199,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0020-valid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
+| [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -230,8 +233,10 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0680-valid-palindrome-ii) |
 <!---LeetCode Topics End-->
