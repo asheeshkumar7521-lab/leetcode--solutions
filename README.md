@@ -36,6 +36,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
 | [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
@@ -108,6 +109,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0020-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
@@ -253,4 +255,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0680-valid-palindrome-ii) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
