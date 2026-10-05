@@ -48,6 +48,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0290-word-pattern) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -91,6 +92,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
@@ -112,6 +114,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0125-valid-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0131-palindrome-partitioning) |
 | [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
+| [0242-valid-anagram](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0412-fizz-buzz) |
