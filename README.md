@@ -69,6 +69,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0326-power-of-three](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0371-sum-of-two-integers) |
 | [0372-super-pow](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0372-super-pow) |
+| [0412-fizz-buzz](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -113,6 +114,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0443-string-compression) |
@@ -150,6 +152,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0043-multiply-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [3959-check-good-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3959-check-good-integer) |
 ## Divide and Conquer
