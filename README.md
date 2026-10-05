@@ -118,6 +118,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0541-reverse-string-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0541-reverse-string-ii) |
 | [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 | [0680-valid-palindrome-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0680-valid-palindrome-ii) |
+| [0856-score-of-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0856-score-of-parentheses) |
 | [1531-string-compression-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1531-string-compression-ii) |
 | [2490-circular-sentence](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2490-circular-sentence) |
 | [4030-check-ascii-palindromic](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/4030-check-ascii-palindromic) |
@@ -202,6 +203,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0020-valid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0020-valid-parentheses) |
 | [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0856-score-of-parentheses) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -236,6 +238,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0020-valid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
