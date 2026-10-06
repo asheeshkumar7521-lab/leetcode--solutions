@@ -39,6 +39,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0014-longest-common-prefix](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0014-longest-common-prefix) |
 | [0039-combination-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
@@ -88,6 +89,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0078-subsets) |
 | [0231-power-of-two](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0371-sum-of-two-integers) |
@@ -234,6 +236,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0131-palindrome-partitioning) |
 ## Matrix
