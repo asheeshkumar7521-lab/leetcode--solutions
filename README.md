@@ -59,6 +59,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0007-reverse-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
+| [0029-divide-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
@@ -86,6 +87,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0371-sum-of-two-integers) |
