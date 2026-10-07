@@ -46,6 +46,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Hash Table
 |  |
@@ -57,6 +58,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0290-word-pattern](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0290-word-pattern) |
 | [0389-find-the-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0389-find-the-difference) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Math
 |  |
 | ------- |
@@ -87,6 +89,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -106,6 +109,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0242-valid-anagram](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0389-find-the-difference) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 ## Two Pointers
 |  |
@@ -114,6 +118,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0125-valid-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0443-string-compression) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0541-reverse-string-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0680-valid-palindrome-ii) |
 | [4030-check-ascii-palindromic](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/4030-check-ascii-palindromic) |
