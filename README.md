@@ -110,6 +110,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0344-reverse-string) |
 | [0443-string-compression](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0443-string-compression) |
@@ -254,6 +255,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0021-merge-two-sorted-lists) |
 ## Knapsack Problem
 |  |
