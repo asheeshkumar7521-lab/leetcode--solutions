@@ -129,6 +129,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0290-word-pattern) |
+| [0301-remove-invalid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0412-fizz-buzz) |
@@ -151,6 +152,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0547-number-of-provinces) |
 ## Union-Find
@@ -244,6 +246,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0131-palindrome-partitioning) |
+| [0301-remove-invalid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
