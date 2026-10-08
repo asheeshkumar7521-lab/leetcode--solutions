@@ -150,6 +150,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0680-valid-palindrome-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0680-valid-palindrome-ii) |
 | [0856-score-of-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1021-remove-outermost-parentheses) |
 | [1531-string-compression-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1531-string-compression-ii) |
 | [2490-circular-sentence](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2490-circular-sentence) |
 | [4030-check-ascii-palindromic](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/4030-check-ascii-palindromic) |
@@ -240,6 +241,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Euler's Totient Function
 |  |
 | ------- |
@@ -282,6 +284,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
