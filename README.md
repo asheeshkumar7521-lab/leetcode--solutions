@@ -48,6 +48,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0746-min-cost-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -212,6 +213,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
+| [0746-min-cost-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1531-string-compression-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1531-string-compression-ii) |
 ## Memoization
 |  |
