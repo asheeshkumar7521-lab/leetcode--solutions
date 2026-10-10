@@ -44,6 +44,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0090-subsets-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
+| [0198-house-robber](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0198-house-robber) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -210,6 +211,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0131-palindrome-partitioning) |
+| [0198-house-robber](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0509-fibonacci-number) |
 | [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
