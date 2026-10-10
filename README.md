@@ -50,6 +50,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0746-min-cost-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -93,6 +94,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -115,6 +117,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0389-find-the-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0389-find-the-difference) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Two Pointers
 |  |
 | ------- |
@@ -299,6 +302,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0680-valid-palindrome-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0680-valid-palindrome-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Trie
 |  |
 | ------- |
@@ -307,4 +311,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0141-linked-list-cycle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
