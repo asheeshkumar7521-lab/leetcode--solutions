@@ -86,6 +86,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0415-add-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0415-add-strings) |
 | [0509-fibonacci-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0866-prime-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0866-prime-palindrome) |
 | [2235-add-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2235-add-two-integers) |
 | [3959-check-good-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3959-check-good-integer) |
 ## Binary Search
@@ -229,6 +230,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0258-add-digits) |
+| [0866-prime-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0866-prime-palindrome) |
 ## Recursion
 |  |
 | ------- |
@@ -315,4 +317,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+## Primality Test
+|  |
+| ------- |
+| [0866-prime-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0866-prime-palindrome) |
 <!---LeetCode Topics End-->
