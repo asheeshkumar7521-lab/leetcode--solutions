@@ -37,6 +37,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0014-longest-common-prefix) |
+| [0018-4sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0018-4sum) |
 | [0039-combination-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0078-subsets) |
@@ -112,6 +113,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0018-4sum) |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
@@ -122,6 +124,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0125-valid-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0141-linked-list-cycle) |
