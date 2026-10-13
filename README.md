@@ -168,6 +168,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0547-number-of-provinces](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
@@ -251,6 +252,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0020-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 | [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
@@ -329,9 +331,11 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
