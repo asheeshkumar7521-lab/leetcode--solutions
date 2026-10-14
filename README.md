@@ -90,6 +90,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0866-prime-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0866-prime-palindrome) |
 | [2235-add-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2235-add-two-integers) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3959-check-good-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3959-check-good-integer) |
 ## Binary Search
 |  |
@@ -315,6 +316,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Trie
 |  |
