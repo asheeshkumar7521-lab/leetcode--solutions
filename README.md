@@ -72,6 +72,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0043-multiply-strings) |
+| [0060-permutation-sequence](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0070-climbing-stairs) |
@@ -244,6 +245,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0021-merge-two-sorted-lists) |
+| [0060-permutation-sequence](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0060-permutation-sequence) |
 | [0224-basic-calculator](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0326-power-of-three) |
