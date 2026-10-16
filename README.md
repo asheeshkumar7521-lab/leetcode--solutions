@@ -53,6 +53,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0746-min-cost-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -67,6 +68,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Math
 |  |
 | ------- |
@@ -361,8 +363,10 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
