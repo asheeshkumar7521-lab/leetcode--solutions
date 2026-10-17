@@ -54,6 +54,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [2333-minimum-sum-of-squared-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
 |  |
@@ -69,6 +70,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Math
 |  |
 | ------- |
@@ -128,6 +130,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0532-k-diff-pairs-in-an-array](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Two Pointers
 |  |
