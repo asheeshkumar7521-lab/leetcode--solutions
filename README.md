@@ -56,6 +56,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,6 +119,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0389-find-the-difference) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4030-check-ascii-palindromic](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
 |  |
@@ -242,6 +244,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0678-valid-parenthesis-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1531-string-compression-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1531-string-compression-ii) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
@@ -298,6 +301,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0079-word-search](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0079-word-search) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Linked List
 |  |
 | ------- |
