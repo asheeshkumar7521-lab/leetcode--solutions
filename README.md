@@ -57,6 +57,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
 |  |
@@ -120,6 +121,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0268-missing-number](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0268-missing-number) |
 | [0371-sum-of-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0389-find-the-difference) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [4030-check-ascii-palindromic](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/4030-check-ascii-palindromic) |
 ## Sorting
@@ -177,6 +179,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [1531-string-compression-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1531-string-compression-ii) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2490-circular-sentence](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2490-circular-sentence) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4030-check-ascii-palindromic](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/4030-check-ascii-palindromic) |
 ## Depth-First Search
 |  |
@@ -188,6 +191,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0199-binary-tree-right-side-view](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0547-number-of-provinces) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -223,6 +227,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0190-reverse-bits) |
 | [0372-super-pow](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0372-super-pow) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Counting
 |  |
 | ------- |
@@ -363,6 +368,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0144-binary-tree-preorder-traversal](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0543-diameter-of-binary-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0543-diameter-of-binary-tree) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -381,9 +387,11 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 <!---LeetCode Topics End-->
