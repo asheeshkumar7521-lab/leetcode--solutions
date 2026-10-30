@@ -180,6 +180,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2490-circular-sentence](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2490-circular-sentence) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 | [4030-check-ascii-palindromic](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/4030-check-ascii-palindromic) |
 ## Depth-First Search
 |  |
@@ -208,6 +209,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0547-number-of-provinces) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -355,6 +357,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Primality Test
 |  |
 | ------- |
@@ -394,4 +397,8 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
