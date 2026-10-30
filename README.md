@@ -62,6 +62,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0169-majority-element) |
@@ -153,6 +154,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0020-valid-parentheses) |
@@ -213,6 +215,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Simulation
 |  |
