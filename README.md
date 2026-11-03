@@ -59,6 +59,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3665-twisted-mirror-path-count](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hash Table
@@ -104,6 +105,7 @@ To improve my Data Structures and Algorithms (DSA) skills by solving LeetCode pr
 | [0866-prime-palindrome](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/0866-prime-palindrome) |
 | [2235-add-two-integers](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/2235-add-two-integers) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3959-check-good-integer](https://github.com/asheeshkumar7521-lab/leetcode--solutions/tree/master/3959-check-good-integer) |
 ## Binary Search
 |  |
